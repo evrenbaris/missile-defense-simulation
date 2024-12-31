@@ -16,8 +16,3 @@ This project simulates a missile defense system in Python. It includes:
 - matplotlib
 - pillow (for saving animations as GIFs)
 
-## How to Run
-### Option 1: Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/missile-defense-simulation.git
